@@ -2,18 +2,7 @@
 
 **`Digital Craftsman ( iOS Developer/Content Creator)`**
 
-I'm an iOS developer and content creator for iOS from Ukraine 🇺🇦 I love creating useful apps for people out there and make their lifes easier. On my [Youtube channel](https://www.youtube.com/channel/UCJGginnzB6bHi_7qfl31nxQ) I try to teach people how to become an iOS developer from strach. I'm just in the beginning of my journey, so it you are interested - stick with me! 🤜🏼🤛🏼
-
-<p align="left">
-    <a href="https://www.youtube.com/channel/UCJGginnzB6bHi_7qfl31nxQ">
-        <img alt="youtube channel" title="My Youtube channel"
-        src="https://custom-icon-badges.demolab.com/badge/-YOUTUBE-red?style=for-the-badge&logo=video&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/boredarthur">
-        <img alt="twitter" title="My Twitter"
-        src="https://custom-icon-badges.demolab.com/badge/-TWITTER-blue?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-</p>
+I'm an iOS developer and content creator for iOS from Ukraine 🇺🇦 I love creating useful apps for people out there and make their lifes easier
 
 ---
 
@@ -27,25 +16,15 @@ I'm an iOS developer and content creator for iOS from Ukraine 🇺🇦 I love cr
 <img align="left" alt="PhotoKit" width="30px" style="padding-right: 10px;" src="https://cdn.iconscout.com/icon/free/png-256/apple-photos-493155.png" />
 <br />
 
-#
-
-### 🎥 Most recent video
-[![My path as iOS Engineer](https://ytcards.demolab.com/?id=oyEhEqfWS1k&title=My+path+as+iOS+Engineer&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250)](https://www.youtube.com/watch?v=oyEhEqfWS1k&t=2s&ab_channel=ArthurZavolovych)
-
-#
-
 ### 📈 Skill set
 <ul>
     <li>Xcode</li>
     <li>Swift</li>
     <li>UIKit</li>
     <li>SwiftUI</li>
-    <li>Stevia</li>
-    <li>SnapKit</li>
-    <li>Alamofire</li>
-    <li>ObjectMapper>
-    <li>Resolver</li>
-    <li>Combine</li>
-    <li>Core Animation</li>
-    <li>PhotoKit</li>
+    <li>MVVM</li>
+    <li>VIPER</li>
+    <li>UDF</li>
+    <li>MapKit</li>
+    <li>Audio streaming</li>
 </ul>
